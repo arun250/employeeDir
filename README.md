@@ -33,7 +33,7 @@ A simple Employee Directory web app built using **Java** and **FreeMarker** for 
 
 <img src = "https://res.cloudinary.com/diejm0elz/image/upload/v1752307077/Bildschirmfoto_2025-07-12_um_13.07.43_bcem8b.png" width= 400/>
 
-
+## Video Link: https://drive.google.com/file/d/1Pcr5OIfR5Aupz_ywy7UEnbI8f7fvIZIJ/view?usp=sharing
 
 
 ## 📁 Project Structure
