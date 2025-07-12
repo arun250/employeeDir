@@ -43,7 +43,8 @@ A simple Employee Directory web app built using **Java** and **FreeMarker** for 
 This is a **local Java + FreeMarker server** setup (no Spring or frameworks).
 
 ### 1. Clone the repo
-git clone https://github.com/your-username/employee-directory.git
+git clone https://github.com/arun250/employeeDir.git
+
 cd employee-directory
 
 ### 2. Download FreeMarker
