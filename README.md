@@ -25,6 +25,17 @@ A simple Employee Directory web app built using **Java** and **FreeMarker** for 
 
 ---
 
+|Dashboard|
+
+<img src = "https://res.cloudinary.com/diejm0elz/image/upload/v1752307077/Bildschirmfoto_2025-07-12_um_13.07.21_xpnuob.png" width= 400/>
+
+|Add and Filter Components|
+
+<img src = "https://res.cloudinary.com/diejm0elz/image/upload/v1752307077/Bildschirmfoto_2025-07-12_um_13.07.43_bcem8b.png" width= 400/>
+
+
+
+
 ## 📁 Project Structure
 
     employee-directory/
