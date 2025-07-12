@@ -104,7 +104,7 @@ function editEmployee(email) {
   document.getElementById('empEmail').value = emp.email;
   document.getElementById('empDepartment').value = emp.department;
   document.getElementById('empRole').value = emp.role;
-
+  document.getElementById('addEmployeeBtn').style.display = 'none';
   editModeEmail = email;
   document.getElementById('formContainer').style.display = 'block';
 }
